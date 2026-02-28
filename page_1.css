@@ -35,10 +35,10 @@ body {
   }
   
   .imge-text {
-    grid-column: 2;
+    grid-column: 1;
     grid-row: 1;
     display: flex;
-    justify-content: center;
+    justify-content: flex-end;
     align-items: center;
   }
   
